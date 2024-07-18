@@ -150,7 +150,7 @@ const RestaurantWebsiteFeatures: React.FC = () => {
                 ]}
             />
             <Section
-                title="Reservation information"
+                title="Reservation info"
                 imageSrc="/infoex.png"
                 bulletPoints={["Contact details", "Location map"]}
             /></div>
